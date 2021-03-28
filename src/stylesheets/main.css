@@ -1,2 +1,7 @@
 /* TODO */
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+canvas{
+    background-color: grey;
+    margin: 15px;
+}
